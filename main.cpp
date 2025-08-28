@@ -1,5 +1,6 @@
 #include <iostream>
+using namespace std;
 int main() {
-    std::cout << "Mission Control is ready!" << std::endl;
+    cout << "Hello World!";
     return 0;
 }
